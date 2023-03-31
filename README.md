@@ -1,3 +1,2 @@
 # BOILDERPLATE HAHAHAHAHA
-
-Some boilerplate for idk
+Boilerplate for MVVM Dao Repository and ViewModel
